@@ -1,0 +1,4 @@
+Model Name: logistic_regression_0.7292
+Accuracy: 0.7292055555555556
+Training Time: 0.03490781784057617 seconds
+Hyperparameters: {'C': 0.1, 'class_weight': None, 'dual': False, 'fit_intercept': True, 'intercept_scaling': 1, 'l1_ratio': None, 'max_iter': 100, 'multi_class': 'ovr', 'n_jobs': None, 'penalty': 'l2', 'random_state': None, 'solver': 'lbfgs', 'tol': 0.0001, 'verbose': 0, 'warm_start': False}
